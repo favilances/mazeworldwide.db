@@ -1,0 +1,25 @@
+{
+    "name": "mazeworldwide.db",
+    "version": "1.0.1",
+    "description": "Simple & Fast JSON Database",
+    "main": "./index.js",
+    "types": "./index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "favilances/mazeworldwide.db"
+      },
+    "keywords": [
+        "json",
+        "db",
+        "discord",
+        "maze",
+        "database",
+        "quick.db",
+        "favilances"
+    ],
+    "author": "Favilances",
+    "license": "MIT"
+}
